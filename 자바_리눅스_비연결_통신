@@ -1,4 +1,6 @@
 # 자바 - 리눅스 비연결형 통신
 ## 자바(서버) - 리눅스(클라이언트) udp 통신
-* 자바
-* 리눅스
+### 자바
+![1](/img5/javaudp_server.JPG)
+### 리눅스
+![1](/img5/linuxudp_client.JPG)
